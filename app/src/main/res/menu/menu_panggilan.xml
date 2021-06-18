@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/logPanggilan"
+        android:title="Bersihkan log panggilan"/>
+    <item android:id="@+id/setelanPanggilan"
+        android:title="Setelan"/>
+
+    <item android:id="@+id/search_panggilan"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        tools:ignore="MenuTitle" />
+</menu>
